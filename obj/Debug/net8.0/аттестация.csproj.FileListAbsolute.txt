@@ -1,0 +1,14 @@
+E:\gb\аттестация\bin\Debug\net8.0\аттестация.exe
+E:\gb\аттестация\bin\Debug\net8.0\аттестация.deps.json
+E:\gb\аттестация\bin\Debug\net8.0\аттестация.runtimeconfig.json
+E:\gb\аттестация\bin\Debug\net8.0\аттестация.dll
+E:\gb\аттестация\bin\Debug\net8.0\аттестация.pdb
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.GeneratedMSBuildEditorConfig.editorconfig
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.AssemblyInfoInputs.cache
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.AssemblyInfo.cs
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.csproj.CoreCompileInputs.cache
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.dll
+E:\gb\аттестация\obj\Debug\net8.0\refint\аттестация.dll
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.pdb
+E:\gb\аттестация\obj\Debug\net8.0\аттестация.genruntimeconfig.cache
+E:\gb\аттестация\obj\Debug\net8.0\ref\аттестация.dll
